@@ -1,0 +1,296 @@
+[
+    {
+        "Category": "Bento",
+        "ItemID": 101,
+        "Item_Name": "雙拼特餐A (本幫+燒肉)",
+        "Price": 100,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 102,
+        "Item_Name": "雙拼特餐B (里肌+燒肉)",
+        "Price": 100,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 103,
+        "Item_Name": "椒鹽雞腿飯 (帶骨)",
+        "Price": 100,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 104,
+        "Item_Name": "日式雞排飯 (帶骨)",
+        "Price": 100,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 105,
+        "Item_Name": "椒鹽香雞排飯 (帶骨)",
+        "Price": 100,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 106,
+        "Item_Name": "日式香雞排飯 (帶骨)",
+        "Price": 100,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 107,
+        "Item_Name": "志學燒肉飯",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 108,
+        "Item_Name": "洄瀾風味餐(鹹豬肉)",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 109,
+        "Item_Name": "日式豬排飯",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 110,
+        "Item_Name": "祕醬牛肉飯",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 111,
+        "Item_Name": "本幫紅燒肉飯 (滷)",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 112,
+        "Item_Name": "蜜汁雞腿排飯 (無骨)",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 113,
+        "Item_Name": "照燒醬雞排飯",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 114,
+        "Item_Name": "卡拉雞腿排飯 (辣)",
+        "Price": 80,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 115,
+        "Item_Name": "醬燒里肌飯",
+        "Price": 80,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 116,
+        "Item_Name": "起司雞排飯",
+        "Price": 80,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 117,
+        "Item_Name": "酥炸排骨飯",
+        "Price": 80,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 118,
+        "Item_Name": "多力魚排飯",
+        "Price": 80,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 119,
+        "Item_Name": "<輕食> 燒肉飯",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 120,
+        "Item_Name": "<輕食> 里肌飯",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 121,
+        "Item_Name": "<輕食> 配菜飯",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Bento",
+        "ItemID": 122,
+        "Item_Name": "白飯(加購)",
+        "Price": 10,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Noodles",
+        "ItemID": 201,
+        "Item_Name": "沙茶炒麵",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Noodles",
+        "ItemID": 202,
+        "Item_Name": "沙茶炒麵+祕醬牛肉",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Noodles",
+        "ItemID": 203,
+        "Item_Name": "椒麻拌麵",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Noodles",
+        "ItemID": 204,
+        "Item_Name": "椒麻拌麵+卡拉雞排",
+        "Price": 90,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 301,
+        "Item_Name": "椒鹽香雞排",
+        "Price": 70,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 302,
+        "Item_Name": "志學燒肉",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 303,
+        "Item_Name": "韓式炸雞",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 304,
+        "Item_Name": "一口香酥雞",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 305,
+        "Item_Name": "美味起司條",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 306,
+        "Item_Name": "酥炸杏鮑菇",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 307,
+        "Item_Name": "美式洋蔥圈",
+        "Price": 40,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 308,
+        "Item_Name": "起司麥克雞",
+        "Price": 40,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 309,
+        "Item_Name": "(加購)薯條",
+        "Price": 30,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 310,
+        "Item_Name": "(加購)甜不辣",
+        "Price": 30,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 311,
+        "Item_Name": "椒鹽香酥脆餅",
+        "Price": 30,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Side_Dishes",
+        "ItemID": 312,
+        "Item_Name": "涼拌柴魚豆腐",
+        "Price": 20,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Steam_Dishes",
+        "ItemID": 401,
+        "Item_Name": "鮮肉湯包 (7顆)",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Steam_Dishes",
+        "ItemID": 402,
+        "Item_Name": "鮮蝦河粉 (3條)",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Steam_Dishes",
+        "ItemID": 403,
+        "Item_Name": "蝦仁燒賣 (6顆)",
+        "Price": 50,
+        "Status": "供應中"
+    },
+    {
+        "Category": "Steam_Dishes",
+        "ItemID": 404,
+        "Item_Name": "綜合燒賣 (6顆)",
+        "Price": 50,
+        "Status": "供應中"
+    }
+]
